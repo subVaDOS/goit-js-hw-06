@@ -64,4 +64,3 @@ console.log(dog.isPrototypeOf(animal)); // false
 console.log(customer.isPrototypeOf(dog)); // false
 
 console.log(dog.hasOwnProperty('name')); // true
-/*<![CDATA[*/ window.pagePath = '/build-your-own-react/'; /*]]>*/
